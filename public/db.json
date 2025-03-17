@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "lang": "fa",
+      "id": 1,
+      "slug": "کبک-به-انگلیسی",
+      "title": "کبک به انگلیسی",
+      "excerpt": null,
+      "kicker": "کبک به انگلیسی چی می‌شه؟",
+      "subtitle": null,
+      "content": "اگر منظور شما کبک معمولی است، **Quail** صحیح‌ترین ترجمه است.\n- **Partridge** معمولاً به کبک‌های بزرگ‌تر مانند کبک چوکار (Chukar Partridge) اشاره دارد.\n- **Quail** برای گونه‌های کوچک‌تر کبک به کار می‌رود.",
+      "publishedDate": "2025-03-17",
+      "readingTime": 0,
+      "featuredImage": "/images/quail.png"
+    },
+    {
+      "lang": "en",
+      "id": 2,
+      "slug": "how-to-say-hello-in-japanese",
+      "title": "How to Say Hello in Japanese",
+      "excerpt": "The common greeting in Japanese is **こんにちは (Konnichiwa)**, which translates to 'Hello.'",
+      "kicker": "What is the most common way to say hello in Japan?",
+      "subtitle": null,
+      "content": "- **Konnichiwa** is typically used during the daytime.\n- **Ohayou gozaimasu** is used in the morning to say 'Good morning.'\n- **Konbanwa** is used to say 'Good evening.'",
+      "publishedDate": "2025-03-17",
+      "readingTime": 0,
+      "featuredImage": null
+    },
+    {
+      "lang": "fr",
+      "id": 3,
+      "slug": "comment-dire-chat-en-francais",
+      "title": "Comment dire 'chat' en français",
+      "excerpt": "Le mot français pour 'cat' est **chat**.",
+      "kicker": "Comment dit-on 'chat' en français ?",
+      "subtitle": null,
+      "content": "- **Chat** est le mot pour désigner un chat en général.\n- **Minou** est un terme affectueux pour un chat domestique.\n- **Chatterie** est un terme utilisé pour désigner un élevage de chats.",
+      "publishedDate": "2025-03-17",
+      "readingTime": 0,
+      "featuredImage": null
+    },
+    {
+      "lang": "en",
+      "id": 4,
+      "slug": "benefits-of-drinking-water",
+      "title": "The Benefits of Drinking Water",
+      "excerpt": "Drinking enough water each day has numerous health benefits, including better digestion and improved skin health.",
+      "kicker": "Why is drinking water so important for your health?",
+      "subtitle": null,
+      "content": "- Staying hydrated helps maintain the balance of bodily fluids.\n- Water can help boost skin health by keeping it hydrated and glowing.\n- Drinking water aids in digestion and can prevent constipation.",
+      "publishedDate": "2025-03-17",
+      "readingTime": 0,
+      "featuredImage": null
+    },
+    {
+      "lang": "fr",
+      "id": 5,
+      "slug": "histoire-de-la-tour-eiffel",
+      "title": "Histoire de la Tour Eiffel",
+      "excerpt": "La Tour Eiffel, symbole emblématique de Paris, a été construite en 1889 pour l'Exposition universelle.",
+      "kicker": "Quand et pourquoi la Tour Eiffel a-t-elle été construite ?",
+      "subtitle": null,
+      "content": "- La Tour Eiffel mesure 324 mètres de hauteur et était la plus haute structure du monde jusqu'en 1930.\n- Elle a été conçue par l'ingénieur Gustave Eiffel pour l'Exposition universelle de Paris.\n- Initialement critiquée, elle est aujourd'hui l'un des monuments les plus célèbres au monde.",
+      "publishedDate": "2025-03-17",
+      "readingTime": 0,
+      "featuredImage": null
+    }
+  ]
+}
